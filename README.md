@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Overview
+
+This is a project tutorial that acted as intro to react. A weather app was created and made responsive. This case also showed how to deconstruct data in react. 
+
 ## Available Scripts
 
 In the project directory, you can run:
